@@ -4,3 +4,4 @@ def test_1():
 
 def test_2():
     assert 6 == 6
+    print("Тест завершен")
